@@ -13,11 +13,11 @@ I am currently a master's student in computer science at National Taiwan Univers
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2024]** Our research paper about weakly-supervised anomaly detection is accepted by IJCAI Workshop 2024.
+- **[Mar. 2024]** Our research paper about HOI detection is accepted for Oral by ICME 2024.
+- **[Jun. 2022]** Our survey paper about lightweight deep learning is accepted by IEEE Consumer Electronics Magazine.
+- **[Jul. 2021]** Our research paper about federated learning is accepted for Poster by ICME 2021.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

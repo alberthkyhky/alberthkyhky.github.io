@@ -1,22 +1,32 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Dual Memory-guided Probabilistic Model for Weakly-supervised Anomaly Detection"
+    authors: Hsiu-Hua Chou, Ruyi Xu, <strong>Kang-Yang Huang</strong>, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng
+    conference_short: IJCAI Workshop
+    conference: International Joint Conferences on Artificial Intelligence Workshop<strong>(IJCAI W)</strong>, 2024.
+    pdf: 
+    image: ./assets/img/IJCAIW24_WAD.png
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  
+  - title: "Learning Efficient Interaction Anchor for HOI Detection"
+    authors: Lirong Xue, <strong>Kang-Yang Huang</strong>, Rong Chao, Jhih-Ciang Wu, Hong-Han Shuai, Yung-Hui Li, Wen-Huang Cheng
+    conference_short: ICME
+    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2024.
+    pdf: 
+    image: ./assets/img/ICME24_HOI.png
+    notes: Oral Presentation
+
+  - title: "Lightweight Deep Learning: An Overview"
+    authors: Ching-Hao Wang, <strong>Kang-Yang Huang</strong>, Yi Yao, Jun-Cheng Chen, Hong-Han Shuai, Wen-Huang Cheng
+    conference_short: IEEE CEM
+    conference: IEEE Consumer Electronics Magazine <strong>(IEEE CEM)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/document/9802879
+    image: ./assets/img/CEM22_survey.png
+  
+  - title: "Heterogeneous Federated Learning through Multi-branch Network"
+    authors: Ching-Hao Wang, <strong>Kang-Yang Huang</strong>, Jun-Cheng Chen, Hong-Han Shuai, Wen-Huang Cheng
+    conference_short: ICME
+    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/document/9428189
+    image: ./assets/img/ICME21_mFedAvg.png
+    notes: Poster Presentation

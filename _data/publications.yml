@@ -1,14 +1,14 @@
 main:
 
   - title: "ReCorD: Reasoning and Correcting Diffusion for HOI Generation"
-    authors: <strong>Kang-Yang Huang</strong>, Jian-Yu Jiang-Lin, Ling Lo, Yi-Ning Huang, Terence Lin, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng
+    authors: <strong>Kang-Yang Huang*</strong>, Jian-Yu Jiang-Lin*, Ling Lo, Yi-Ning Huang, Terence Lin, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng
     conference_short: ACM MM
     conference: ACM International Conference on Multimidia <strong>(MM)</strong>, 2024.
     pdf: 
     code: 
     page: https://alberthkyhky.github.io/ReCorD/
     image: ./assets/img/MM_2024-Teaser.png
-    notes: Accept
+    notes: Poster Presentation
 
   - title: "Dual Memory-guided Probabilistic Model for Weakly-supervised Anomaly Detection"
     authors: Hsiu-Hua Chou, Ruyi Xu, <strong>Kang-Yang Huang</strong>, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng

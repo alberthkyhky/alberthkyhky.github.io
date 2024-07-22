@@ -7,8 +7,7 @@ main:
     pdf: 
     code: 
     page: https://alberthkyhky.github.io/ReCorD/
-    # image: ./assets/img/MM_2024-Teaser.png
-    image: ./assets/img/ICME24_HOI.png
+    image: ./assets/img/MM_2024-Teaser.png
     notes: Poster Presentation
 
   - title: "Dual Memory-guided Probabilistic Model for Weakly-supervised Anomaly Detection"

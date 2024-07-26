@@ -4,7 +4,7 @@ main:
     authors: <strong>Kang-Yang Huang*</strong>, Jian-Yu Jiang-Lin*, Ling Lo, Yi-Ning Huang, Terence Lin, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng
     conference_short: ACM MM
     conference: ACM International Conference on Multimidia <strong>(MM)</strong>, 2024.
-    pdf: 
+    pdf: https://arxiv.org/pdf/2407.17911
     code: 
     page: https://alberthkyhky.github.io/ReCorD/
     image: ./assets/img/MM_2024-Teaser.png

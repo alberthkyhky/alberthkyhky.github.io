@@ -5,7 +5,7 @@ main:
     conference_short: ACM MM
     conference: ACM International Conference on Multimidia <strong>(MM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2407.17911
-    code: 
+    code: https://paperswithcode.com/paper/record-reasoning-and-correcting-diffusion-for
     page: https://alberthkyhky.github.io/ReCorD/
     image: ./assets/img/MM_2024-Teaser.png
     notes: Poster Presentation

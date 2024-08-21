@@ -3,7 +3,7 @@ main:
   - title: "ReCorD: Reasoning and Correcting Diffusion for HOI Generation"
     authors: <strong>Kang-Yang Huang*</strong>, Jian-Yu Jiang-Lin*, Ling Lo, Yi-Ning Huang, Terence Lin, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng
     conference_short: ACM MM
-    conference: ACM International Conference on Multimidia <strong>(MM)</strong>, 2024.
+    conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2407.17911
     code: https://paperswithcode.com/paper/record-reasoning-and-correcting-diffusion-for
     page: https://alberthkyhky.github.io/ReCorD/

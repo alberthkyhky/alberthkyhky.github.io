@@ -13,6 +13,7 @@ I am currently a master's student in computer science at National Taiwan Univers
 
 ## News
 
+- **[Jan. 2025]** Our survey paper about lightweight deep learning received the Best Paper Award for the year of 2024.
 - **[Jul. 2024]** Our research paper about image generation with precise human-object interactions through intelligent reasoning and correction is accepted by ACM MM 2024.
 - **[Jun. 2024]** Our research paper about weakly-supervised anomaly detection is accepted by IJCAI Workshop 2024.
 - **[Mar. 2024]** Our research paper about HOI detection is accepted for Oral by ICME 2024.

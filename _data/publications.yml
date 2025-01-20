@@ -32,6 +32,7 @@ main:
     conference: IEEE Consumer Electronics Magazine <strong>(IEEE CEM)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/document/9802879
     image: ./assets/img/CEM22_survey.png
+    notes: Best Paper Awards
   
   - title: "Heterogeneous Federated Learning through Multi-branch Network"
     authors: Ching-Hao Wang, <strong>Kang-Yang Huang</strong>, Jun-Cheng Chen, Hong-Han Shuai, Wen-Huang Cheng

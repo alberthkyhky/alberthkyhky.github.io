@@ -14,7 +14,7 @@ main:
     authors: Hsiu-Hua Chou, Ruyi Xu, <strong>Kang-Yang Huang</strong>, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng
     conference_short: IJCAI Workshop
     conference: International Joint Conference on Artificial Intelligence Workshop <strong>(IJCAI W)</strong>, 2024.
-    pdf: 
+    pdf: https://link.springer.com/chapter/10.1007/978-981-97-9003-6_4
     image: ./assets/img/IJCAIW24_WAD.png
     notes: Oral Presentation
   
@@ -22,7 +22,7 @@ main:
     authors: Lirong Xue, <strong>Kang-Yang Huang</strong>, Rong Chao, Jhih-Ciang Wu, Hong-Han Shuai, Yung-Hui Li, Wen-Huang Cheng
     conference_short: ICME
     conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2024.
-    pdf: 
+    pdf: https://ieeexplore.ieee.org/document/10687459
     image: ./assets/img/ICME24_HOI.png
     notes: Oral Presentation
 

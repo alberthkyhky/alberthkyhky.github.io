@@ -28,8 +28,8 @@ main:
 
   - title: "Lightweight Deep Learning: An Overview"
     authors: Ching-Hao Wang, <strong>Kang-Yang Huang</strong>, Yi Yao, Jun-Cheng Chen, Hong-Han Shuai, Wen-Huang Cheng
-    conference_short: IEEE CEM
-    conference: IEEE Consumer Electronics Magazine <strong>(IEEE CEM)</strong>, 2022.
+    conference_short: IEEE MCE
+    conference: IEEE Consumer Electronics Magazine <strong>(IEEE MCE)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/document/9802879
     image: ./assets/img/CEM22_survey.png
     notes: Best Paper Awards

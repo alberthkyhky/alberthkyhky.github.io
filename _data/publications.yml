@@ -1,5 +1,15 @@
 main:
 
+  - title: "InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing"
+    authors: Kun-Hsiang Lin, Yu-Wen Tseng, <strong>Kang-Yang Huang</strong>, Jhih-Ciang Wu, Wen-Huang Cheng
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2025.
+    pdf: 
+    code: https://github.com/kunkunlin1221/InstructFLIP
+    page: 
+    image: 
+    notes: 
+  
   - title: "ReCorD: Reasoning and Correcting Diffusion for HOI Generation"
     authors: <strong>Kang-Yang Huang*</strong>, Jian-Yu Jiang-Lin*, Ling Lo, Yi-Ning Huang, Terence Lin, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng
     conference_short: ACM MM

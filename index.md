@@ -13,6 +13,7 @@ I am currently a master's student in computer science at National Taiwan Univers
 
 ## News
 
+- **[Jul. 2025]** Our research paper about face anti-spoofing utilizing vision-language model is accepted by ACM MM 2025.
 - **[Jun. 2025]** Member of the Phi Tau Phi Scholastic Honor Society, 2025.
 - **[Jun. 2025]** Received Hon Hai Technology Award, 2025.
 - **[Jan. 2025]** Our survey paper about lightweight deep learning received the Best Paper Award for the year of 2024.

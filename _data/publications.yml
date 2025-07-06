@@ -7,7 +7,7 @@ main:
     pdf: 
     code: https://github.com/kunkunlin1221/InstructFLIP
     page: 
-    image: 
+    image: ./assets/img/MM_2025-Teaser.png
     notes: 
   
   - title: "ReCorD: Reasoning and Correcting Diffusion for HOI Generation"

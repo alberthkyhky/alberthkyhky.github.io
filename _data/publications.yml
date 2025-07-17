@@ -4,7 +4,7 @@ main:
     authors: Kun-Hsiang Lin, Yu-Wen Tseng, <strong>Kang-Yang Huang</strong>, Jhih-Ciang Wu, Wen-Huang Cheng
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2025.
-    pdf: 
+    pdf: https://arxiv.org/pdf/2507.12060
     code: https://github.com/kunkunlin1221/InstructFLIP
     page: https://kunkunlin1221.github.io/InstructFLIP/
     image: ./assets/img/MM_2025-Teaser.png
@@ -15,7 +15,7 @@ main:
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2407.17911
-    code: https://paperswithcode.com/paper/record-reasoning-and-correcting-diffusion-for
+    code: https://github.com/j1anglin/ReCorD
     page: https://alberthkyhky.github.io/ReCorD/
     image: ./assets/img/MM_2024-Teaser.png
     notes: Poster Presentation

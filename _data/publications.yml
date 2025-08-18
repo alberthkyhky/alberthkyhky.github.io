@@ -8,7 +8,7 @@ main:
     code: https://github.com/kunkunlin1221/InstructFLIP
     page: https://kunkunlin1221.github.io/InstructFLIP/
     image: ./assets/img/MM_2025-Teaser.png
-    notes: 
+    notes: Oral Presentation
   
   - title: "ReCorD: Reasoning and Correcting Diffusion for HOI Generation"
     authors: <strong>Kang-Yang Huang*</strong>, Jian-Yu Jiang-Lin*, Ling Lo, Yi-Ning Huang, Terence Lin, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng

@@ -255,8 +255,6 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=kd_B-
 * **Email:** `hhshuai@nycu.edu.tw`
 * **Role:** Academic Advisor for Graduate and Undergraduate Studies
 
-<div>
-
 <div id="clustrmaps-widget">
   <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=Bq3PCtqVDrkC3iUH1a7iL-M50Qhs3J08YYuqw9wgY88"></script>
 </div>

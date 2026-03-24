@@ -65,7 +65,7 @@ Kang-Yang (Albert Huang) obtained his MSc degree in Computer Science at National
 - _2025.07_: &nbsp;🎉🎉 Our research paper about face anti-spoofing utilizing vision-language model is accepted by ACM MM 2025.
 - _2025.06_: &nbsp;🎉🎉 Received Hon Hai Technology Award, 2025 and Member of the Phi Tau Phi Scholastic Honor Society.
 - _2025.01_: &nbsp;🎉🎉 Our survey paper about lightweight deep learning received the Best Paper Award for the year of 2024.
-- _2024.11_: &nbsp;🎉🎉 Received Lam Research Paper Award and Outstanding Student Scholarship, 2024.
+- _2024.11_: &nbsp;🎉🎉 Received Lam Research Outstanding Science Scholarship, 2024.
 - _2024.07_: &nbsp;🎉🎉 Our research paper about image generation with precise human-object interactions through intelligent reasoning and correction is accepted by ACM MM 2024.
 - _2024.06_: &nbsp;🎉🎉 Our research paper about weakly-supervised anomaly detection is accepted by IJCAI Workshop 2024.
 - _2024.03_: &nbsp;🎉🎉 Our research paper about HOI detection is accepted for Oral by ICME 2024.

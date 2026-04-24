@@ -1,4 +1,48 @@
 <script src="assets/js/main.min.js"></script>
 
+<script>
+(function () {
+  var navLinks = document.querySelectorAll('.greedy-nav .visible-links a');
+
+  // Build a map from hash (e.g. "#about-me") to nav link element
+  var linkMap = {};
+  navLinks.forEach(function (link) {
+    var href = link.getAttribute('href') || '';
+    var hash = href.indexOf('#') !== -1 ? '#' + href.split('#')[1] : null;
+    if (hash) linkMap[hash] = link;
+  });
+
+  // Collect sections in DOM order
+  var sections = Object.keys(linkMap)
+    .map(function (hash) {
+      return { hash: hash, el: document.querySelector(hash) };
+    })
+    .filter(function (s) { return s.el !== null; })
+    .sort(function (a, b) {
+      return a.el.getBoundingClientRect().top - b.el.getBoundingClientRect().top;
+    });
+
+  function setActive(hash) {
+    navLinks.forEach(function (l) { l.classList.remove('nav-active'); });
+    if (hash && linkMap[hash]) linkMap[hash].classList.add('nav-active');
+  }
+
+  function updateActive() {
+    var scrollY = window.scrollY + 120; // offset for sticky header
+    var current = null;
+    sections.forEach(function (s) {
+      if (s.el.getBoundingClientRect().top + window.scrollY <= scrollY) {
+        current = s.hash;
+      }
+    });
+    setActive(current);
+  }
+
+  window.addEventListener('scroll', updateActive, { passive: true });
+  window.addEventListener('DOMContentLoaded', updateActive);
+  updateActive();
+})();
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

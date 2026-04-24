@@ -139,3 +139,12 @@ h1:before,
 a:hover {
   font-weight: bolder;
 }
+
+.greedy-nav .visible-links a.nav-active {
+  color: #367DBD;
+}
+
+.greedy-nav .visible-links a.nav-active:before {
+  background: #367DBD !important;
+  transform: scaleX(1) !important;
+}

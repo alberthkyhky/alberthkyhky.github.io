@@ -25,7 +25,7 @@ Kang-Yang (Albert Huang) obtained his MSc degree in Computer Science at National
 - **Deep Learning:** federated learning, knowledge distillation, adversarial attack
   
 <!-- === CV Download Module === -->
-{% assign cv_path = "/files/2604Resume_Kang-Yang_Huang.pdf" %}
+{% assign cv_path = "/files/2605Resume_Kang-Yang_Huang.pdf" %}
 {% assign cv_file = site.static_files | where: "path", cv_path | first %}
 <div class="cv-download">
   <a class="cv-btn" href="{{ cv_path | relative_url }}" target="_blank" rel="noopener" download>

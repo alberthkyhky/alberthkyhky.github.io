@@ -9,8 +9,6 @@
 title: "Kang-Yang Huang (黃康洋)"
 description: "Computer Vision Researcher/Engineer."
 repository: "alberthkyhky/alberthkyhky.github.io"
-google_scholar_stats_use_cdn: true
-
 # google analytics
 google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
 
@@ -67,7 +65,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

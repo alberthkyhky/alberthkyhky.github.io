@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 Kang-Yang (Albert Huang) obtained his MSc degree in Computer Science at National Taiwan University, Taiwan, where he is part of the [AIMM](https://aimm.cmlab.csie.ntu.edu.tw/) group within the Communication and Multimedia Laboratory ([CMLab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php)), under the guidance of [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/). Albert previously earned his B.S. degree from the Undergraduate Honors Program in Electrical Engineering and Computer Science at National Yang Ming Chiao Tung University, Taiwan. Additionally, he was an exchange student at RWTH Aachen University, Germany, from April to September in 2021. Albert's research interests are centered around the convergence of computer vision and deep learning. In the early stages of his academic journey, Albert specialized in lightweight deep learning, particularly in the areas of knowledge distillation and federated learning. Currently, Albert is broadening his research scope to include text-to-image generation and visual language models.
